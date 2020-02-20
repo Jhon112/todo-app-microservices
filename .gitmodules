@@ -1,0 +1,6 @@
+[submodule "tasks-microservice"]
+	path = tasks-microservice
+	url = https://github.com/Jhon112/tasks-microservice.git
+[submodule "user-microservice"]
+	path = user-microservice
+	url = https://github.com/Jhon112/user-microservice.git
