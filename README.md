@@ -1,27 +1,18 @@
-# Todo aapp microservices application
+# Todo app microservices application
 
 ## Table of contents
 
-- [Todo list microservices architecture application](#Todo-list-microservices-architecture-application)
+- [Todo list microservices architecture application](#Todo-app-microservices-architecture-application)
   - [Table of contents](#Table-of-contents)
   - [Description](#Description)
   - [Project structure](#Project-structure)
   - [Cloning repository](#Cloning-repository)
-  - [Prerequisites](#Prerequisites)
   - [Technology stack](#Technology-stack)
     - [User service technology stack](#User-service-technology-stack)
-    - [Todo service technology stack](#Todo-service-technology-stack)
-    - [Gateway API service technology stack](#Gateway-API-service-technology-stack)
-    - [End2end tests technology stack](#End2end-tests-technology-stack)
-  - [Diagrams](#Diagrams)
-    - [Deployment diagram](#Deployment-diagram)
-    - [Login user sequence diagram](#Login-user-sequence-diagram)
-    - [Register user sequence diagram](#Register-user-sequence-diagram)
-    - [Create todo sequence diagram](#Create-todo-sequence-diagram)
-    - [Get todo sequence diagram](#Get-todo-sequence-diagram)
-    - [Delete todo sequence diagram](#Delete-todo-sequence-diagram)
-    - [Update todo sequence diagram](#Update-todo-sequence-diagram)
-    - [List todo sequence diagram](#List-todo-sequence-diagram)
+    - [Tasks service technology stack](#Tasks-service-technology-stack)
+  <!-- - [Diagrams](#Diagrams)
+    - [Deployment diagram](#Deployment-diagram) -->
+
 
 ## Description
 
