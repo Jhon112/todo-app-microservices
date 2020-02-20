@@ -10,6 +10,7 @@
   - [Technology stack](#Technology-stack)
     - [User service technology stack](#User-service-technology-stack)
     - [Tasks service technology stack](#Tasks-service-technology-stack)
+
   <!-- - [Diagrams](#Diagrams)
     - [Deployment diagram](#Deployment-diagram) -->
 
@@ -27,6 +28,11 @@ Application consists of three services:
 
 - User service - Create, update, delete, and show all users
 - Tasks service - Create, update, and delete taks. This service can show all tasks of a user as well
+
+Live servers:
+
+- User service - <http://ec2-18-232-100-104.compute-1.amazonaws.com/>
+- Tasks service - <https://tasks-microservice-904.herokuapp.com/api/v1/tasks/1>
 
 ## Project structure
 
