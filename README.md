@@ -65,8 +65,8 @@ git clone --recurse-submodules https://github.com/Jhon112/todo-app-microservices
 - Ruby on Rails - API
 - Postgresql
 
-<!-- ## Diagrams
+## Diagrams
 
-### Deployment diagram
+### Architecture diagram
 
-![Deployment diagram](/docs/diagrams/out/deployment_diagram.png?raw=true) -->
+![App architecture diagram](https://github.com/Jhon112/todo-app-microservices/todo-app.png?raw=true)
