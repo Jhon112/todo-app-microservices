@@ -31,7 +31,8 @@ Application consists of three services:
 
 Live servers:
 
-- User service - <http://ec2-18-232-100-104.compute-1.amazonaws.com/>
+- User interface (React app) - <https://to-do-app-904.herokuapp.com/>
+- User service - <https://user-microservices.herokuapp.com/api/v1/status>
 - Tasks service - <https://tasks-microservice-904.herokuapp.com/api/v1/tasks/1>
 
 ## Project structure
@@ -40,6 +41,7 @@ Live servers:
 .
 ├── tasks-microservice - directory with source code for task service
 └── user-microservice - directory with source code for user service
+└── To-do-FrontEnd - directory with source code containing react app that connects both microservices
 ```
 
 ## Cloning repository
@@ -55,7 +57,7 @@ git clone --recurse-submodules https://github.com/Jhon112/todo-app-microservices
 - Python3
 - Flask
 - SQLAlchemy
-- MySQL
+- Postgresql
 
 ### Tasks service technology stack
 
