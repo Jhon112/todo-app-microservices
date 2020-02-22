@@ -69,4 +69,4 @@ git clone --recurse-submodules https://github.com/Jhon112/todo-app-microservices
 
 ### Architecture diagram
 
-![App architecture diagram](https://github.com/Jhon112/todo-app-microservices/todo-app.png?raw=true)
+![App architecture diagram](https://github.com/Jhon112/todo-app-microservices/blob/master/todo-app.png?raw=true)
