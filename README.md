@@ -32,8 +32,9 @@ Application consists of three services:
 Live servers:
 
 - User interface (React app) - <https://to-do-app-904.herokuapp.com/>
-- User service - <https://user-microservices.herokuapp.com/api/v1/status>
-- Tasks service - <https://tasks-microservice-904.herokuapp.com/api/v1/tasks/1>
+- User service - <https://user-microservices.herokuapp.com/api/v1/users>
+- User service status - <https://user-microservices.herokuapp.com/api/v1/status>
+- Tasks service - <https://tasks-microservice-904.herokuapp.com/api/v1/tasks/5946c3a0-91fc-43b1-b5ee-e5fff8e04798>
 
 ## Project structure
 
