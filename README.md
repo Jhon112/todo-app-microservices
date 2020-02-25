@@ -26,6 +26,7 @@ Main application features:
 
 Application consists of three services:
 
+- UI - Connects both services a by displaying a friendly interface to handle users and tasks
 - User service - Create, update, delete, and show all users
 - Tasks service - Create, update, and delete taks. This service can show all tasks of a user as well
 
